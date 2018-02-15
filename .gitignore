@@ -1,0 +1,8 @@
+npm_modules
+Error.log
+.DS_Store
+.sass-cache
+.tmp
+.rvmrc
+.trashes
+*~
